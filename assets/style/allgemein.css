@@ -137,7 +137,7 @@ aside a:hover {
   color: white;
 }
 
-/*? Alternative mit before */
+/*? Kreise einfügen bei Side Nav - Variante mit before */
 aside a::before {
   content: url(../img/kleinerkreis.svg);
   margin-right: 30px;
@@ -156,7 +156,7 @@ aside a::before {
   color: white;
 }
 
-/* ? Alternative mit img im HTMl */
+/* ? Kreise einfügen bei Side Nav - Variante mit img im HTMl */
 /* 
   aside img {
     vertical-align: -12%;
