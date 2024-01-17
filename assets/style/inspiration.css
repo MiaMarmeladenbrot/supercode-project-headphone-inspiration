@@ -1,0 +1,47 @@
+main {
+  margin-left: 20vw;
+  /* margin-right: 10vw; */
+}
+
+.video {
+  padding-bottom: 10vh;
+}
+
+/* ! Video einfügen */
+video {
+  width: 70vw;
+  margin-bottom: 3vh;
+}
+
+/* ! Überschrift in Allgemein definiert, hier noch zusätzlich Großbuchstaben */
+.video h4 {
+  text-transform: uppercase;
+}
+
+/* ! 3 Buttons nebeneinander */
+div {
+  margin-bottom: 3vh;
+}
+
+.button {
+  color: #737373;
+  text-transform: uppercase;
+  border: 1px solid white;
+  border-radius: 3px;
+  padding: 0.5vh 1.5vw;
+  margin: 0 1px;
+}
+
+/* ! Grid-Boxen mit Bild und Text */
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+
+  width: 60vw;
+
+  padding-bottom: 20vh;
+}
+
+.grid div {
+  padding: 8vh 2vw 5vh 2vw;
+}

@@ -1,0 +1,35 @@
+/* ! Schwebender Mann und Begrüßungstext */
+.beyond-music div {
+  padding: 10vh 0;
+  margin-left: 30vw;
+}
+
+.beyond-music img {
+  width: 90vw;
+  height: 250vh;
+  display: block;
+  margin: 0 auto;
+  object-fit: cover;
+}
+
+/* ! Design Alchemy Section */
+.alchemy {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  padding: 20vh;
+}
+
+.alchemy div,
+.alchemy img {
+  width: 30vw;
+}
+
+.alchemy div {
+  margin-left: 3vw;
+}
+
+.alchemy div h3 {
+  margin-bottom: 2vh;
+}

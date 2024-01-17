@@ -1,0 +1,21 @@
+section {
+  display: grid;
+  grid-template-columns: 1.5fr 1fr;
+}
+
+section div {
+  text-align: center;
+}
+
+.img-left {
+  object-fit: cover;
+  height: 100vh;
+  margin-top: -130px;
+}
+
+.rose-button {
+  background-color: #ebccc2;
+  color: #2e2e2e;
+  border-radius: 2px;
+  padding: 1.5vh 2vw;
+}

@@ -1,0 +1,14 @@
+.exp_lounger {
+  display: grid;
+  grid-template-columns: 1.5fr 1fr;
+}
+
+.exp_lounger div {
+  padding: 10vh 3vw;
+}
+
+.exp_lounger img {
+  object-fit: cover;
+  height: 100vh;
+  margin-top: -130px;
+}
