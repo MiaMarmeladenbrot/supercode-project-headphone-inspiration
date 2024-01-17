@@ -37,7 +37,7 @@ div {
   display: grid;
   grid-template-columns: 1fr 1fr;
 
-  width: 60vw;
+  width: 70vw;
 
   padding-bottom: 20vh;
 }

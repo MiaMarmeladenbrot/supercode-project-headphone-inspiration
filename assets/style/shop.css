@@ -1,6 +1,8 @@
 section {
   display: grid;
   grid-template-columns: 1.5fr 1fr;
+
+  /* height: 100vh; */
 }
 
 section div {
@@ -10,7 +12,12 @@ section div {
 .img-left {
   object-fit: cover;
   height: 100vh;
-  margin-top: -130px;
+  margin-top: -110px;
+}
+
+.img-right {
+  height: 60vh;
+  margin-top: -10vh;
 }
 
 .rose-button {
