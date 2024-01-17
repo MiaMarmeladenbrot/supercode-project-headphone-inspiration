@@ -1,10 +1,9 @@
 main {
   margin-left: 20vw;
-  /* margin-right: 10vw; */
 }
 
 .video {
-  padding-bottom: 10vh;
+  padding-bottom: 8vh;
 }
 
 /* ! Video einfügen */
@@ -37,11 +36,11 @@ div {
   display: grid;
   grid-template-columns: 1fr 1fr;
 
-  width: 70vw;
+  width: 65vw;
 
   padding-bottom: 20vh;
 }
 
 .grid div {
-  padding: 8vh 2vw 5vh 2vw;
+  padding: 8vh 5vw 5vh 5vw;
 }
